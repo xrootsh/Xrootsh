@@ -1,4 +1,3 @@
-
 # <p align="center">X🔴PACKET™</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen">
@@ -8,9 +7,9 @@
 ---
 ### 🛡️ About Me
 I am an **Ethical Hacking Student** and the developer of the **X🔴PACKET™** framework. Focused on automation, reconnaissance, and cybersecurity research.
-- ⚡ **Currently working on:** `X🔴PACKET v5.5`
-- 🎯 **Focus:** OSINT, Network Scanning, and Automated Exploitation.
-- 🛠️ **Tech Stack:** Python, Bash, Metasploit, Kali Linux.
+* ⚡ **Currently working on:** `X🔴PACKET v5.5`
+* 🎯 **Focus:** OSINT, Network Scanning, and Automated Exploitation.
+* 🛠️ **Tech Stack:** Python, Bash, Metasploit, Kali Linux.
 ---
 ### 🚀 Projects
 
@@ -22,8 +21,12 @@ I am an **Ethical Hacking Student** and the developer of the **X🔴PACKET™** 
 ---
 ### 📱 Connect with Me
 <p align="left">
-<a href="https://instagram.com/x.packet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.packet" height="30" width="40" /></a>
-<a href="https://instagram.com/xroot.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xroot.sh" height="30" width="40" /></a>
+<a href="https://instagram.com/x.packet" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-x.packet-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://instagram.com/xroot.sh" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-xroot.sh-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 </p>
 ---
 <p align="center"><i>"Decode. Defuse. Defend."</i></p>
